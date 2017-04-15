@@ -1,0 +1,7 @@
+#Sat Apr 15 20:53:31 EET 2017
+base.0=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\Retrofitexzample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2966b5b8c09f3237e4b5e3e15d5d7c7a979c47b6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\Retrofitexzample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1fdef1d8e2f6cc89aaf3159445bca9385e0c99bd\\classes.dex
+base.1=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\Retrofitexzample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1fdef1d8e2f6cc89aaf3159445bca9385e0c99bd
+file.0=C\:\\Users\\UserComp\\AndroidStudioProjects\\Scrooge\\Retrofitexzample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2966b5b8c09f3237e4b5e3e15d5d7c7a979c47b6\\classes.dex

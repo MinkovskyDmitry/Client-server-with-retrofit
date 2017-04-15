@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_f8994fa6e598bccdb9d33e1ee036a369cb1b2ec3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_437ebf5f3bf7d4dd84850f44b1a1a62574d8c132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_d90dc5faca7359228cdea2125dc5f0a6d10aabe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_5bb4e469b10fe05fae98a3105648947556d66fa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_2f30d75490621f6bbbdb81840e2a0fd6bab92974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_6d104249303e7a2cdbaf109b63ce9bc3c7de2af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_f7f62ec4e5fc8c9692c55cd150c049b445be517a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-10.0-b28_72cfb9d497f7291d6ba764052ac6595bf2964642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_7157374ac71547bb6d2ebccebef804debae3c959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_894f30b9da7e7fdef7a01499718ed12b6e82c0a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_a9799987b881866072987b56ffd330aaff19ff2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_43fcb8ed04cb85b651275a8b7579303dee34a0b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_4da1125c0d093f9f7c15f4ebc718034746aed2b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_9c697c83500d508294080021467eeddab779214f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_4f3afcf0caf78e6406aa774587063729fd466f55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_ba74de55251906f01b14e9514a5cdccaef8b29b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_cedd973e08a5d579e14553d8bc97fca0cd5d1d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_939c2382c3db0a3fda5ef0b1450ce993e8d43e8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f723e8b9841b0d9376dfe28cda0439a1d70f4ef6">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1fdef1d8e2f6cc89aaf3159445bca9385e0c99bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a8934b7942a7df66d18d0988a6a60e6860e8603f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="328d78c9c5bc38a84eda1ba84c87b93f3552e334">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2966b5b8c09f3237e4b5e3e15d5d7c7a979c47b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_336bda097c5306d0b28dc36dd6ff9a505f044000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_4de58f10aaa75df604002930af0cc9898ca47e71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_98e32e43f7f399c550b0e651db927418e8ebe465\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_bf6bbd65f325334fba0beaa525da69dd97b1dd2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_21d6320f9180005f5fb71a071516cdc1743ed197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\UserComp\AndroidStudioProjects\Scrooge\Retrofitexzample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_2600f1502cb55f43a1ee62cde2aa0ba1c27700f6\classes.dex" />
+    </item>
+
+</items>
